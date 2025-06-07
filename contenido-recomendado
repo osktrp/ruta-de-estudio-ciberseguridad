@@ -1,0 +1,77 @@
+¡Excelente idea! Aquí tienes una propuesta de **estructura para tu repositorio de GitHub** llamado `ruta-de-estudio-ciberseguridad` donde podrás documentar, organizar y compartir tu avance en la ruta de estudio:
+
+---
+
+## Estructura sugerida del repositorio
+
+```
+ruta-de-estudio-ciberseguridad/
+│
+├── README.md
+├── 00-plan-general.md
+├── 01-netacad/
+│   ├── resumen-cursos.md
+│   ├── apuntes/
+│   └── ejercicios/
+├── 02-linux/
+│   ├── comandos-basicos.md
+│   ├── bash/
+│   └── scripts/
+├── 03-programacion/
+│   ├── python/
+│   │   ├── retos-mouredev.md
+│   │   └── scripts/
+│   ├── c/
+│   └── sql/
+├── 04-redes/
+│   ├── teoria.md
+│   ├── packet-tracer/
+│   └── wireshark/
+├── 05-pentesting/
+│   ├── tryhackme/
+│   ├── thehackerstyle/
+│   ├── hackthebox/
+│   └── rootme/
+├── 06-proyectos/
+│   └── [proyectos-finales]
+├── 07-ctfs/
+│   └── writeups/
+└── recursos.md
+```
+
+---
+
+## Contenido recomendado
+
+- **README.md:**  
+  Presentación del proyecto, objetivos, cómo usar el repositorio y cómo seguir la ruta.
+
+- **00-plan-general.md:**  
+  Ruta de estudio detallada, calendario sugerido, prioridades (NetAcad 60%), enlaces principales.
+
+- **01-netacad/**  
+  Apuntes, resúmenes y ejercicios de cada curso de Cisco NetAcad.
+
+- **02-linux/**  
+  Comandos, scripts, ejercicios de Bash y Linux (incluye retos de MoureDev).
+
+- **03-programacion/**  
+  Ejercicios y scripts de Python, C y SQL, retos de MoureDev, automatización.
+
+- **04-redes/**  
+  Teoría, prácticas con Packet Tracer, Wireshark, ejercicios de escaneo y análisis.
+
+- **05-pentesting/**  
+  Prácticas y writeups de TryHackMe, TheHackerStyle, HackTheBox, RootMe.
+
+- **06-proyectos/**  
+  Proyectos integradores, automatización, scripts de seguridad, etc.
+
+- **07-ctfs/**  
+  Writeups y soluciones de CTFs resueltos.
+
+- **recursos.md:**  
+  Enlaces útiles, libros, cursos, canales de YouTube, comunidades.
+
+---
+ 
