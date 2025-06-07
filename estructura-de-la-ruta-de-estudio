@@ -1,0 +1,32 @@
+ruta-de-estudio-ciberseguridad/
+│
+├── README.md
+├── 00-plan-general.md
+├── 01-netacad/
+│   ├── resumen-cursos.md
+│   ├── apuntes/
+│   └── ejercicios/
+├── 02-linux/
+│   ├── comandos-basicos.md
+│   ├── bash/
+│   └── scripts/
+├── 03-programacion/
+│   ├── python/
+│   │   ├── retos-mouredev.md
+│   │   └── scripts/
+│   ├── c/
+│   └── sql/
+├── 04-redes/
+│   ├── teoria.md
+│   ├── packet-tracer/
+│   └── wireshark/
+├── 05-pentesting/
+│   ├── tryhackme/
+│   ├── thehackerstyle/
+│   ├── hackthebox/
+│   └── rootme/
+├── 06-proyectos/
+│   └── [proyectos-finales]
+├── 07-ctfs/
+│   └── writeups/
+└── recursos.md
